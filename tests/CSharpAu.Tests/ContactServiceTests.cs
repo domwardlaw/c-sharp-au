@@ -3,6 +3,9 @@ using CSharpAu.Api.Models;
 using CSharpAu.Api.Services;
 using Moq;
 using Xunit;
+using System.Threading.Tasks;
+using Microsoft.Extensions.Logging;
+
 
 namespace CSharpAu.Tests;
 
