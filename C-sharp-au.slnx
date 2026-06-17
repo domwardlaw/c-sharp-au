@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution Format="1.0" ToolsVersion="17.0">
+  <Projects>
+    <Project Path="src/CSharpAu.Api/CSharpAu.Api.csproj" Language="C#" />
+    <Project Path="src/CSharpAu.Web/CSharpAu.Web.csproj" Language="C#" />
+    <Project Path="tests/CSharpAu.Tests/CSharpAu.Tests.csproj" Language="C#" />
+  </Projects>
+  <Configurations>
+    <Configuration Name="Debug|Any CPU" Active="true" />
+    <Configuration Name="Release|Any CPU" />
+  </Configurations>
+</Solution>
